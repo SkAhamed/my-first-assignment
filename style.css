@@ -1,3 +1,98 @@
-h1 {
+body {
     font-family: 'Poppins', sans-serif;
+}
+
+.section-header {
+    margin-bottom: 120px;
+}
+
+.div-text {
+    text-align: center;
+    padding-top: 150px;
+    color: #ccd5e2;
+}
+
+.div-area {
+    background-image: url(images/donation0.jpg);
+    background-repeat: no-repeat;
+    width: 940px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 700px;
+}
+
+
+
+.div-text h1 {
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.div-text p {
+    margin-bottom: 30px;
+}
+
+.Home-Button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(0, 102, 255), tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+
+.donate-text {
+    text-align: center;
+}
+
+.donate-text h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.donate-text p {
+    color: #0000ff;
+}
+
+.donate-amount {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+.donate-box {
+    padding-top: 20px;
+    margin-left: 20px;
+    width: 100px;
+    height: 80px;
+    text-align: center;
+    background-color: rgba(5, 3, 3, 0);
+}
+
+.donate-ok {
+    padding-top: 20px;
+    margin-left: 20px;
+    width: 100px;
+    height: 80px;
+    text-align: center;
+    background-color: rgba(14, 8, 8, 0.158);
+    color: crimson;
+    border: 1px solid red;
+}
+
+.donate-other {
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+.donate-other p {
+    color: rgb(43, 14, 112);
+}
+
+.other-border {
+    width: 600px;
+    margin-bottom: 30px;
+    color: rgb(134, 131, 131);
 }
