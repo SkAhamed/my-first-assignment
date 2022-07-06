@@ -4,6 +4,8 @@ body {
     width: 100%;
 }
 
+/*section header start*/
+
 .section-header {
     margin-bottom: 150px;
 }
@@ -48,8 +50,10 @@ body {
 
 }
 
+/*section header end*/
 
 
+/*Scetion donate start*/
 
 .donate-text {
     text-align: center;
@@ -105,6 +109,10 @@ body {
     color: rgb(134, 131, 131);
 }
 
+/*section donate end*/
+
+/*section donate plan start*/
+
 .section-donate-plan {
     text-align: center;
 }
@@ -151,6 +159,10 @@ body {
     font-size: 13px;
 }
 
+/*section donate plan end*/
+
+/*setion lives depend star*/
+
 .lives-depend {
     display: flex;
     justify-content: center;
@@ -178,8 +190,9 @@ body {
     margin-left: 80px;
 }
 
+/*scetion lives depend end*/
 
-
+/*section need us star*/
 
 .need-us {
     display: flex;
@@ -211,11 +224,9 @@ body {
 
 }
 
+/*section need us end*/
 
-
-
-
-
+/*section updates start*/
 
 .updates-text {
     text-align: center;
@@ -267,6 +278,9 @@ form input {
     height: 120px;
 }
 
+/*section updates end*/
+
+/*section footer start*/
 
 .footer-text {
     text-align: center;
@@ -286,3 +300,5 @@ form input {
     font-size: 10px;
     padding-bottom: 10px;
 }
+
+/*section footer end*/
