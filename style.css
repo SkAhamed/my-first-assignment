@@ -96,3 +96,185 @@ body {
     margin-bottom: 30px;
     color: rgb(134, 131, 131);
 }
+
+.section-donate-plan {
+    text-align: center;
+}
+
+.div-donate-plan h1 {
+    font-size: 30px;
+    font-size: bold;
+}
+
+.div-donate-plan p {
+    color: gray;
+    margin-bottom: 50px;
+}
+
+.card-all {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.card {
+    width: 20%;
+    height: 235px;
+    padding-top: 50px;
+    padding-left: 20px;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.card-1 {
+    background-color: rgba(116, 231, 193, 0.167);
+}
+
+.card-2 {
+    background-color: rgba(190, 164, 135, 0.14);
+}
+
+.card-3 {
+    background-color: rgba(244, 213, 11, 0.293);
+}
+
+.card-text p {
+    color: gray;
+    font-size: 13px;
+}
+
+.lives-depend {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 90px;
+}
+
+.lives-depend-text {
+    width: 35%;
+}
+
+.lives-depend-text h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.lives-depend-text p {
+    color: gray;
+    margin-bottom: 50px;
+}
+
+.lives-depend-img img {
+    width: 400px;
+    height: 500px;
+    margin-left: 80px;
+}
+
+
+
+
+.need-us {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 90px;
+}
+
+.need-us-img img {
+    width: 450px;
+    height: 500px;
+    margin-left: 10px;
+    margin-right: 80px;
+}
+
+.need-us-text {
+    width: 35%;
+
+}
+
+.need-us-text h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.need-us-text p {
+    color: gray;
+    margin-bottom: 50px;
+
+}
+
+
+
+
+
+
+
+.updates-text {
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+.updates-text h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.updates-text p {
+    color: gray;
+}
+
+.form-area {
+    background-color: rgba(244, 213, 11, 0.293);
+    width: 650px;
+    height: 150px;
+    margin-left: 30%;
+    margin-bottom: 100px;
+
+}
+
+form {
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+form a {
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    padding: 8px 20px;
+    border-radius: 3%;
+}
+
+form input {
+    padding: 10px 35px;
+    background-color: rgba(213, 205, 205, 0.713);
+}
+
+.footer-aera {
+    background-color: black;
+    height: 120px;
+}
+
+
+.footer-text {
+    text-align: center;
+}
+
+.footer-text h1 {
+    font-family: 'Lobster', cursive;
+    padding-top: 35px;
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.footer-text p {
+    color: white;
+    font-size: 10px;
+    padding-bottom: 10px;
+}
